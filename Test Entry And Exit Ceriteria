@@ -1,0 +1,20 @@
+Entry and exit criteria are important components of a test plan, which is a document that outlines the scope, objectives, resources, and schedule for testing a specific software project. Entry criteria define the conditions that must be met before testing can begin, while exit criteria specify the conditions that must be met before testing can be concluded. Here's a brief explanation of both:
+
+1. Entry Criteria:
+   - Environment Setup: The test environment, including hardware, software, and network configurations, should be prepared and ready for testing.
+   - Test Data Availability: Necessary test data, such as input files or databases, should be available.
+   - Test Resources: Testers, test cases, and test tools should be in place and ready.
+   - Test Plan Approval: The test plan itself should be reviewed and approved by relevant stakeholders.
+   - Baseline Build: A stable version of the software (baseline build) should be available for testing.
+   - Test Deliverables: Any required documents or artifacts like test scripts, test data, and test schedules should be ready.
+
+2. Exit Criteria:
+   - Test Coverage: The predefined test coverage goals should be achieved. This may include specific code coverage or requirements coverage.
+   - Defect Closure: All critical and major defects should be addressed and closed.
+   - Stability: The software should demonstrate stability and reliability, with a low rate of newly discovered defects.
+   - Performance Criteria: If performance testing is part of the plan, performance goals should be met.
+   - Acceptance Criteria: The software should meet the predefined acceptance criteria and quality standards.
+   - Documentation: Test reports, summary documents, and other necessary documentation should be prepared.
+   - Stakeholder Approval: Approval from relevant stakeholders or the project team for ending the testing phase.
+
+The entry and exit criteria serve as checkpoints to ensure that testing is carried out under appropriate conditions and that the testing process is completed effectively. They help in maintaining control and quality throughout the testing phase of a project.
